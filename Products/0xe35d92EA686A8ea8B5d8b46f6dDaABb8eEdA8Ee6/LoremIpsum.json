@@ -1,0 +1,10 @@
+{
+  "Code": "LoremIpsum",
+  "Name": "What is Lorem Ipsum?",
+  "Description": "Lorem Ipsum definition",
+  "ContentType": "text/html",
+  "FileName": null,
+  "Price": 25,
+  "ValidityPeriodUnit": "Unlimited",
+  "ValidityPeriodValue": 0
+}

@@ -1,0 +1,10 @@
+{
+  "Code": "OpkeeContract",
+  "Name": "Opkee Contract",
+  "Description": "The contract code in solidity",
+  "ContentType": "text/sol",
+  "FileName": "OpkeeContract.sol",
+  "Price": 50,
+  "ValidityPeriodUnit": "Unlimited",
+  "ValidityPeriodValue": 0
+}

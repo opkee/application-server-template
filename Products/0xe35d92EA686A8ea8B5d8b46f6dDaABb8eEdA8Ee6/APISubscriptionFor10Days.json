@@ -1,0 +1,10 @@
+{
+  "Code": "APISubscriptionFor10Days",
+  "Name": "API Subscription (10 days)",
+  "Description": "API Subscription for 10 days",
+  "ContentType": "text/plain",
+  "FileName": null,
+  "Price": 99.5,
+  "ValidityPeriodUnit": "Day",
+  "ValidityPeriodValue": 10
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Test.Application": {
+      "commandName": "Project",
+      "workingDirectory": "..\\"
+    }
+  }
+}
